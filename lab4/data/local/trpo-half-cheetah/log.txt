@@ -1,0 +1,6 @@
+[2018-03-24 18:27:33.192221 UTC] Starting env pool
+[2018-03-24 18:27:33.255526 UTC] Starting iteration 0
+[2018-03-24 18:27:33.256490 UTC] Start collecting samples
+[2018-03-24 18:27:46.111332 UTC] Computing input variables for policy optimization
+[2018-03-24 18:27:46.408852 UTC] Performing policy update
+[2018-03-24 18:27:46.411321 UTC] Computing gradient in Euclidean space
